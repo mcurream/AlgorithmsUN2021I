@@ -1,4 +1,4 @@
-# AlgorithmsUN2021I ![alt text](https://upload.wikimedia.org/wikipedia/commons/3/3e/Escudo_Actual_de_la_UNAL.png "Logo Title Text 1")
+# AlgorithmsUN2021I ![alt text](https://unal.edu.co/typo3conf/ext/unal_skin_default/Resources/Public/images/escudoUnal_black.png "Logo Title Text 1")
 
 
 -----
