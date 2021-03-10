@@ -2,8 +2,6 @@
 
 # AlgorithmsUN2021I
 
------
-
 ### Todo lo relacionado con la clase de Algoritmos - Grupo I - 2021
 
 -----
