@@ -1,4 +1,4 @@
-# AlgorithmsUN2021I ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+# AlgorithmsUN2021I ![alt text](https://d3q0kt5yih1b7n.cloudfront.net/organizations/covers/perfiles-redes-sociales-04_4406477037.jpg "Logo Title Text 1")
 
 
 -----
