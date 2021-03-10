@@ -7,7 +7,7 @@
 -----
 
 
-[####Laboratorio 1](https://github.com/mcurream/AlgorithmsUN2021I/tree/main/Lab1)
+[#### Laboratorio 1](https://github.com/mcurream/AlgorithmsUN2021I/tree/main/Lab1)
 - [Lecture 1: Introduction to Research ](https://github.com/mcurream/AlgorithmsUN2021I/blob/main/Lab1/mcurreamlecture1.ipynb)
 - [Lecture 2: Introduction to Python ](https://github.com/mcurream/AlgorithmsUN2021I/blob/main/Lab1/mcurreamlecture2.ipynb)
 - [Lecture 3: Introduction to NumPy ](https://github.com/mcurream/AlgorithmsUN2021I/blob/main/Lab1/mcurreamlecture3.ipynb)
