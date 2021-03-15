@@ -13,3 +13,7 @@
 - [Lecture 3: Introduction to NumPy ](https://github.com/mcurream/AlgorithmsUN2021I/blob/main/Lab1/mcurreamlecture3.ipynb)
 - [Lecture 4: Introduction to pandas ](https://github.com/mcurream/AlgorithmsUN2021I/blob/main/Lab1/mcurreamlecture4.ipynb)
 - [Lecture 5: Plotting Data ](https://github.com/mcurream/AlgorithmsUN2021I/blob/main/Lab1/mcurreamlecture5.ipynb)
+
+-----
+
+#### [Laboratorio 2](https://github.com/mcurream/AlgorithmsUN2021I/tree/main/Lab2)
