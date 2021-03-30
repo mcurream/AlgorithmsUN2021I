@@ -26,4 +26,4 @@
 
 cognitiveclass.ai Applied Data Science with Python
 
-- [Data Visualization with Python](https://github.com/mcurream/AlgorithmsUN2021I/blob/main/Lab3/)
+- [Data Visualization with Python - Certificate(PDF)](https://github.com/mcurream/AlgorithmsUN2021I/blob/main/Lab3/Data%20Visualization%20with%20Python.pdf)
