@@ -18,3 +18,12 @@
 
 #### [Laboratorio 2](https://github.com/mcurream/AlgorithmsUN2021I/tree/main/Lab2)
 - [The PyData Toolbox with Scott Sanderson](https://github.com/mcurream/AlgorithmsUN2021I/blob/main/Lab2/mcurreamscottsanderson.ipynb)
+
+
+-----
+
+#### [Laboratorio 3](https://github.com/mcurream/AlgorithmsUN2021I/tree/main/Lab3)
+
+cognitiveclass.ai Applied Data Science with Python
+
+- [Data Visualization with Python](https://github.com/mcurream/AlgorithmsUN2021I/blob/main/Lab3/)
