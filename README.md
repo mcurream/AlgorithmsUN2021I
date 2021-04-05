@@ -34,3 +34,15 @@ cognitiveclass.ai Applied Data Science with Python
 -----
 
 #### [Laboratorio 4](https://github.com/mcurream/AlgorithmsUN2021I/tree/main/Lab4)
+
+
+-----
+
+#### [Laboratorio 5](https://github.com/mcurream/AlgorithmsUN2021I/tree/main/Lab5)
+
+
+-----
+
+#### [Laboratorio 6](https://github.com/mcurream/AlgorithmsUN2021I/tree/main/Lab6)
+
+- [Revision de los Ejercicios - Suma de Dos Digitos - Maximo Producto de un par de Digitos](https://github.com/mcurream/AlgorithmsUN2021I/blob/main/Lab6/mcurreamAlgorithmicToolboxWeek1.ipynb)
