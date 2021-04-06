@@ -24,7 +24,7 @@
 
 #### [Laboratorio 3](https://github.com/mcurream/AlgorithmsUN2021I/tree/main/Lab3)
 
-# cognitiveclass.ai Applied Data Science with Python
+##### cognitiveclass.ai Applied Data Science with Python
 
 - [Data Visualization with Python - Certificate(PDF)](https://github.com/mcurream/AlgorithmsUN2021I/blob/main/Lab3/Data%20Visualization%20with%20Python.pdf)
 - [Data Analysis with Python - Certificate(PDF)](https://github.com/mcurream/AlgorithmsUN2021I/blob/main/Lab3/Data%20Analysis%20with%20Python.pdf)
@@ -35,7 +35,7 @@
 
 #### [Laboratorio 4](https://github.com/mcurream/AlgorithmsUN2021I/tree/main/Lab4)
 
-# QuantConnect - Introduction to Financial Python
+##### QuantConnect - Introduction to Financial Python
 
 - [Python: Functions and Object-Oriented Programming](https://github.com/mcurream/AlgorithmsUN2021I/blob/main/Lab4/functions-and-objective-oriented-programming.ipynb)
 - [Python: Functions and Object-Oriented Programming](https://github.com/mcurream/AlgorithmsUN2021I/blob/main/Lab4/numpy-and-basic-pandas.ipynb)
@@ -48,7 +48,7 @@
 
 #### [Laboratorio 5](https://github.com/mcurream/AlgorithmsUN2021I/tree/main/Lab5)
 
-# Simple Flask web based application in pythonanywhere
+##### Simple Flask web based application in pythonanywhere
 
 -----
 
