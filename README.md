@@ -43,7 +43,7 @@
 - [Numpy and basic Pandas](https://github.com/mcurream/AlgorithmsUN2021I/blob/main/Lab4/numpy-and-basic-pandas.ipynb)
 - [Pandas: Resampling and DataFrame](https://github.com/mcurream/AlgorithmsUN2021I/blob/main/Lab4/pandas-resampling-and-dataframe.ipynb)
 - [Rate of Return, Mean and Variance](https://github.com/mcurream/AlgorithmsUN2021I/blob/main/Lab4/rate_of_return_mean_and_variance.ipynb)
-- [Random Variables and Distributions](https://github.com/mcurream/AlgorithmsUN2021I/blob/main/Lab4/random-variables-and-distributions.ipynb)
+- [Random Variables and Distributions](https://github.com/mcurream/AlgorithmsUN2021I/blob/main/Lab4/random_variables_and_distributions.ipynb)
 - [Confidence Interval and Hypothesis Testing](https://github.com/mcurream/AlgorithmsUN2021I/blob/main/Lab4/confidence-interval-and-hypothesis-testing.ipynb)
 
 -----
