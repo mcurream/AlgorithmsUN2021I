@@ -30,6 +30,7 @@
 - [Data Analysis with Python - Certificate(PDF)](https://github.com/mcurream/AlgorithmsUN2021I/blob/main/Lab3/Data%20Analysis%20with%20Python.pdf)
 - [Python for Data Science - Certificate(PDF)](https://github.com/mcurream/AlgorithmsUN2021I/blob/main/Lab3/Python%20for%20Data%20Science.pdf)
 - [LinkedIn .jpeg](https://github.com/mcurream/AlgorithmsUN2021I/blob/main/Lab3/mcurreamcognitiveclassaapplieddatadciencewithpython.JPG)
+- [IPython Notebook with the Screenshots](https://github.com/mcurream/AlgorithmsUN2021I/blob/main/Lab3/mcurreamcognitiveclassaapplieddatadciencewithpython.ipynb)
 
 
 -----
