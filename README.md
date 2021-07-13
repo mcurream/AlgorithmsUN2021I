@@ -68,7 +68,7 @@
 
 -----
 
-#### [Laboratorio 7](https://github.com/mcurream/AlgorithmsUN2021I/tree/main/Lab7)
+#### [Laboratorio 8](https://github.com/mcurream/AlgorithmsUN2021I/tree/main/Lab7)
 
 - [Revision de los Ejercicios - Algorithmic Toolbox - Week 2](https://github.com/mcurream/AlgorithmsUN2021I/blob/main/Lab8/mcurrreamAlgorithmicToolboxWeek2.ipynb)
 
