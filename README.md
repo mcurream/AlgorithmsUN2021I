@@ -58,12 +58,19 @@
 
 #### [Laboratorio 6](https://github.com/mcurream/AlgorithmsUN2021I/tree/main/Lab6)
 
-- [Revision de los Ejercicios - Suma de Dos Digitos - Maximo Producto de un par de Digitos](https://github.com/mcurream/AlgorithmsUN2021I/blob/main/Lab6/mcurreamAlgorithmicToolboxWeek1.ipynb)
+- [Revision de los Ejercicios - Suma de Dos Digitos - Maximo Producto de un par de Digitos - Algorithmic Toolbox - Week 1](https://github.com/mcurream/AlgorithmsUN2021I/blob/main/Lab6/mcurreamAlgorithmicToolboxWeek1.ipynb)
 
 -----
 
 #### [Laboratorio 7](https://github.com/mcurream/AlgorithmsUN2021I/tree/main/Lab7)
 
-- [Arithmetic Series, Geometric Series and Power Sums](https://github.com/mcurream/AlgorithmsUN2021I/blob/main/Lab7/mcurreamArithmeticSeriesPowerSeriesPowerSums.ipynb
-)
+- [Arithmetic Series, Geometric Series and Power Sums](https://github.com/mcurream/AlgorithmsUN2021I/blob/main/Lab7/mcurreamArithmeticSeriesPowerSeriesPowerSums.ipynb)
+
+-----
+
+#### [Laboratorio 7](https://github.com/mcurream/AlgorithmsUN2021I/tree/main/Lab7)
+
+- [Revision de los Ejercicios - Algorithmic Toolbox - Week 2](https://github.com/mcurream/AlgorithmsUN2021I/blob/main/Lab8/mcurrreamAlgorithmicToolboxWeek2.ipynb)
+
+
 
