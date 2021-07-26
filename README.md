@@ -86,5 +86,5 @@
 
 #### [Laboratorio 10](https://github.com/mcurream/AlgorithmsUN2021I/tree/main/Lab10)
 
-- [Algoritmo de Montecarlo - Ejemplos](https://github.com/mcurream/AlgorithmsUN2021I/blob/main/Lab10/21BlackjackGrClass1StGroup3.ipynb)
+- [Algoritmo de Monte Carlo - 21 Blackjack](https://github.com/mcurream/AlgorithmsUN2021I/blob/main/Lab10/21BlackjackGrClass1StGroup3.ipynb)
 
