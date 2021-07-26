@@ -70,11 +70,13 @@
 
 #### [Laboratorio 8](https://github.com/mcurream/AlgorithmsUN2021I/tree/main/Lab8)
 
-- [Revision de los Ejercicios - Algorithmic Toolbox - Week 2](https://github.com/mcurream/AlgorithmsUN2021I/blob/main/Lab9/BubbleSortOptDistributionWithRepGroup3.ipynb)
+- [Revision de los Ejercicios - Algorithmic Toolbox - Week 2](https://github.com/mcurream/AlgorithmsUN2021I/blob/main/Lab8/mcurrreamAlgorithmicToolboxWeek2.ipynb)
 
 -----
 
 #### [Laboratorio 9](https://github.com/mcurream/AlgorithmsUN2021I/tree/main/Lab9)
 
-- [Bubble Sort Distribution - Haciendo uso de Fibonacci](https://github.com/mcurream/AlgorithmsUN2021I/blob/main/Lab8/mcurrreamAlgorithmicToolboxWeek2.ipynb)
+- [Bubble Sort Distribution - Con Repeticion](https://github.com/mcurream/AlgorithmsUN2021I/blob/main/Lab9/BubbleSortOptDistributionWithRepGroup3.ipynb)
+
+- [Bubble Sort Distribution - Sin Repeticion](https://github.com/mcurream/AlgorithmsUN2021I/blob/main/Lab9/BubbleSortOptDistributionWithoutRepGroup3.ipynb)
 
