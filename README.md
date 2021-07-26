@@ -80,3 +80,5 @@
 
 - [Bubble Sort Distribution - Sin Repeticion](https://github.com/mcurream/AlgorithmsUN2021I/blob/main/Lab9/BubbleSortOptDistributionWithoutRepGroup3.ipynb)
 
+- [Fibonacci Iteration - Pruebas con Fibonacci](https://github.com/mcurream/AlgorithmsUN2021I/blob/main/Lab9/FibonacciTimesGroup3.ipynb)
+
