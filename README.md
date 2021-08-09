@@ -88,3 +88,14 @@
 
 - [Algoritmo de Monte Carlo - 21 Blackjack](https://github.com/mcurream/AlgorithmsUN2021I/blob/main/Lab10/21BlackjackGrClass1StGroup3.ipynb)
 
+-----
+
+#### [Laboratorio 11](https://github.com/mcurream/AlgorithmsUN2021I/tree/main/Lab11)
+
+- [Revision de los Ejercicios - Algorithmic Toolbox - Week 3](https://github.com/mcurream/AlgorithmsUN2021I/blob/main/Lab11/mcurreamAlgorithmicToolboxWeek3.ipynb)
+
+-----
+
+#### [Laboratorio 12](https://github.com/mcurream/AlgorithmsUN2021I/tree/main/Lab12)
+
+- [Revision de los Ejercicios - Algorithmic Toolbox - Week 4](https://github.com/mcurream/AlgorithmsUN2021I/blob/main/Lab12/mcurreamAlgorithmicToolboxWeek4.ipynb)
