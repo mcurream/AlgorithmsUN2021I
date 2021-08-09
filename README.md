@@ -99,3 +99,22 @@
 #### [Laboratorio 12](https://github.com/mcurream/AlgorithmsUN2021I/tree/main/Lab12)
 
 - [Revision de los Ejercicios - Algorithmic Toolbox - Week 4](https://github.com/mcurream/AlgorithmsUN2021I/blob/main/Lab12/mcurreamAlgorithmicToolboxWeek4.ipynb)
+
+-----
+
+#### [Laboratorio 13](https://github.com/mcurream/AlgorithmsUN2021I/tree/main/Lab13)
+
+- [Revision de los Ejercicios - Algorithmic Toolbox - Week 5](https://github.com/mcurream/AlgorithmsUN2021I/blob/main/Lab13/mcurreamAlgorithmicToolboxWeek5.ipynb)
+
+-----
+
+#### [Laboratorio 14](https://github.com/mcurream/AlgorithmsUN2021I/tree/main/Lab14)
+
+- [Revision de los Ejercicios - Algorithmic Toolbox - Week 6](https://github.com/mcurream/AlgorithmsUN2021I/blob/main/Lab14/mcurreamAlgorithmicToolboxWeek6.ipynb)
+
+-----
+
+#### [Certificado - Coursera - Algorithmic Toolbox](https://github.com/mcurream/AlgorithmsUN2021I/tree/main/Certificate)
+
+- [ipynb del certificado](https://github.com/mcurream/AlgorithmsUN2021I/blob/main/Certificate/mcurreamAlgorithmicToolboxCertificate.ipynb)
+
